@@ -239,9 +239,9 @@
             display: block;
             height: 100%;
             width: 100%;
-
+/*
             background-image: url(https://library.iugaza.edu.ps/img/background.jpg);
-
+*/
             background-repeat: no-repeat;
             background-size: cover;
             background-position: top center;
